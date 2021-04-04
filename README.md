@@ -82,3 +82,10 @@ The West Nile Virus might not only be occurring in one place, but with the weath
 The features that proved to be effective enough for Chicago (our data), might not be indicative enough for presence of the virus in other parts of continent. Gathering information from all the states by setting up experiments would give a better sense of key indicators of when and where West Nile Virus might be present. However, this process could be costly.
 Weather conditions in different states and in different times is also likely to be quite different.
 As temperature of the world is also on the rise, taking it into account might also help form indicators of time of the year that would reach the average temperature for which the virus thrives.
+
+
+**Project Management**
+Our project were managed by using trello in the following link: https://trello.com/b/UcREmDgF/project-4
+<p align="center">
+<img src="code/images/trello.JPG" width="800" />
+</p>
