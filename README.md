@@ -87,5 +87,5 @@ As temperature of the world is also on the rise, taking it into account might al
 **Project Management**
 Our project were managed by using trello in the following link: https://trello.com/b/UcREmDgF/project-4
 <p align="center">
-<img src="code/images/trello.jpg" width="800" />
+<img src="code/images/trello.JPG" width="800" />
 </p>
